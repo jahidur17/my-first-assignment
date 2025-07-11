@@ -148,10 +148,38 @@ nav{
     font-weight: bold;
     height: 232px;
     width: 528px;
-    text-align: left;
+    text-align:center;
     color: 0;
+   
 }
 
+.paragraph{
+    color: #8987A1;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 100px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.last-footer{
+    width: 531px;
+    height: 221px;
+    text-align: right;
+    padding-left: 350px;
+}
+
+.footer-h2{
+    text-align: center;
+    color: #4E47FF;
+    font-weight: bolder;
+    font-size:20px
+}
 
 
 
