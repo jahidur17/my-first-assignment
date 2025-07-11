@@ -42,7 +42,6 @@ nav{
     gap: 158px;
     padding:  5px 200px;
     padding-bottom: 100px;
-    
 }
 
 .img-holder{
@@ -55,7 +54,7 @@ nav{
     display: flex;
     justify-content: space-between;
     padding: 130px 116px 140px 116px;
-    max-width: none;
+    
     
 }
 .banner-container{
@@ -181,8 +180,68 @@ ul {
     font-size:20px
 }
 
-
-
+.main-class{
+    display:flex;
+    justify-content: space-around;
+}
     
+.blog{
+    width: 366px;
+    height: 243px;
+    padding: 24px 24px;
+    gap: 24px;
+}
 
+.class-cont{
+    display:inline-block;
+    
+}
+h1{
+    text-align:center;
+}
+
+.c-title{
+    text-align: center;
+}
+.main-part{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 60px;
+}
+.sub-part{
+    border-radius: 14px;
+    height: 250px;
+    width: 350px;
+    background-color: #ffffff;
+    padding: 22px;
+}
+.c-h3{
+    font-size: 30px;
+    font-weight: bold;
+    color: #000000;
+}
+.c-pic{
+    display: flex;
+}
+
+.c-p{
+    font-size: 17px;
+    font-weight: 500;
+    color: #8987a1;
+}
+.pic{
+    height: 85px;
+    width: 85px;
+    border-radius: 9999px;
+}
+
+.date{
+    border: none;
+}
+
+.c-h2{
+    font-size: 19px;
+    font-weight: bold;
+    color: #7c7a91;
+}
 
