@@ -70,4 +70,53 @@ nav{
     width: 450px;
     height: 60px;
 }
+
+.banner-start h2{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+    margin-bottom: 20px;
+}
+
+.banner-start p{
+    font-size: 20px;
+    font-weight: 600px;
+    margin-top: 5px;
+    color: #000000;
+}
+.main-banner h3{
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+    margin: 0;
+    text-align: center;
+}
+
+.banner-starts{
+    display: flex;
+    justify-content: space-around;
+    gap: 15px; 
+}
+
+.main-banner{
+    background-color: #d8d7f6;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
     
+    width: 850px;
+    height: 306px;
+    border-radius: 24px;
+    margin-left: 30px;
+    padding: 50px 140px;
+
+    
+}
+
+
+
+
+
+    
+
+
